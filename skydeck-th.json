@@ -631,7 +631,7 @@
         "49dca65f362fee401292ed7ada96f96295eab1e589c52e4e66bf4aedda715fdd"
     ],
     [
-        "Afghanistan (‫افغانستان‬‎)",
+        "Afghanistan",
         "85c29937851ba0f1372b904a05dcf5ec662985eef39ee4765eefb170e7da6a41"
     ],
     [
@@ -647,7 +647,7 @@
         "02e515c0c065c08224b3cbecc0f801e9148809af3b9b021845096e3e2c8f9da8"
     ],
     [
-        "Algeria (‫الجزائر‬‎)",
+        "Algeria",
         "ce13a00152f638a9977f98d2692ac6323bc19b73b4eb74a68c78092ffa65fd14"
     ],
     [
@@ -691,7 +691,7 @@
         "c08252259cf28c81e8a23f2fab24dac893a5c9d6ea83adde8533f2bff72e7e10"
     ],
     [
-        "Armenia (Հայաստան)",
+        "Armenia",
         "2abc80ae2816b6316db1d1ee1b00ccc38bf4aecb04fd64e0151d4d79dce7fa0b"
     ],
     [
@@ -735,7 +735,7 @@
         "58f91a2aeffd6e0d1a3a4c139df5546be520174fbd48c26dad0c6d6369f7bc88"
     ],
     [
-        "Bahrain (‫البحرين‬‎)",
+        "Bahrain",
         "ba97cdb284a386c4d4dece8e5cfa8d5921cb0b1d5798f3e2d6e5e946a70f2522"
     ],
     [
@@ -743,7 +743,7 @@
         "4f41e308ffafe21ca7ef74db4dfabfc2a803cc83bef3e3a880a4017a96c82383"
     ],
     [
-        "Bangladesh (বাংলাদেশ)",
+        "Bangladesh",
         "51730bb1a3c053dc0e0efe2ce948b7f7f55dec0ca8015143398fb27ce2edbfaa"
     ],
     [
@@ -755,7 +755,7 @@
         "8e8dfae9b75212091282fd58d57e7cd8ba4715468bf10ee05cd62298b83bbc23"
     ],
     [
-        "Belarus (Беларусь)",
+        "Belarus",
         "a2bdc199b6766e2ff85d329eae669d6602c3c06c6539793505545cdaf2cc3546"
     ],
     [
@@ -791,7 +791,7 @@
         "79c89fd457dcc1b1ebcadcdcb294f4797cf2725d606a8df51954e0b1badd4e0e"
     ],
     [
-        "Bhutan (འབྲུག)",
+        "Bhutan",
         "12abdd05045ea222f6c84e44b732b6f24cbda54e78ef44b921e5f7b48af141f8"
     ],
     [
@@ -875,7 +875,7 @@
         "3c9f4ef638d645c506cd5887a5c20a1c837244613df0087f5a6b299d41cab5de"
     ],
     [
-        "Cambodia (កម្ពុជា)",
+        "Cambodia",
         "0face882fef65acc06f74b696744fe9e35a20d1ca42e5a728917239011496235"
     ],
     [
@@ -959,7 +959,7 @@
         "20901c21526bc487c741557dc0b67f7ba7693d6f66ae0769d9081d6fc4a080a5"
     ],
     [
-        "Comoros (‫جزر القمر‬‎)",
+        "Comoros",
         "3ffdf9f3e526e4f1686d22da311c783a6b096829236edf7add6d7ab13b697c6c"
     ],
     [
@@ -1624,4 +1624,5 @@
     ],
 
     [
+
 
