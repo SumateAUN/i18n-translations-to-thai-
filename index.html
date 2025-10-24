@@ -1,11 +1,36 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Thai Translation Project</title>
-  </head>
-  <body>
-    <h1>Welcome to Nexus Thai Translation</h1>
-    <p>This page is powered by GitHub Pages.</p>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <title>Nexus Thai Translation</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    .entry { margin-bottom: 1rem; }
+    .key { font-weight: bold; color: #333; }
+    .value { color: #555; }
+  </style>
+</head>
+<body>
+  <h1>คำแปลจาก Nexus</h1>
+  <div id="translations">Loading...</div>
+
+  <script>
+    fetch('skydeck-th.json')
+      .then(res => res.json())
+      .then(data => {
+        const container = document.getElementById('translations');
+        container.innerHTML = '';
+        Object.entries(data).forEach(([key, value]) => {
+          const div = document.createElement('div');
+          div.className = 'entry';
+          div.innerHTML = `<span class="key">${key}:</span> <span class="value">${value}</span>`;
+          container.appendChild(div);
+        });
+      })
+      .catch(err => {
+        document.getElementById('translations').innerText = 'ไม่สามารถโหลดคำแปลได้';
+        console.error(err);
+      });
+  </script>
+</body>
 </html>
